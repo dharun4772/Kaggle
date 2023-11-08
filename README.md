@@ -1,2 +1,2 @@
-# Kaggle
-1. Music Populairty Prediction
+# Prediction Projects
+1. Music Populairty Prediction - MLR
